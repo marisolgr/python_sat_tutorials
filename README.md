@@ -1,7 +1,15 @@
 # python_sat_tutorials
 Tutorials to access and process satellite data in the cloud
 
+<b> Objective </b>. What it does and what it doesn't
+
 This project, supported by the Better Scientific Software foundation and NASa, aims to increase accessibility of satellite data & cloud technologies to a broad scientific community through easy-to-follow Python tutorials
+
+<b> How it works</b>. Cloud, and if stand alone, how to access the cloud. All in Jupyter Lab
+
+<b> How to go about it</b>. Stand along chapters, resources and information fiiles.
+
+<b>Work time line</b>
 
 Milestone 1 (march 31, 2021)
 -	Task 1.1. Update Introduction to Python and Tools chapters, and develop Introduction to JupyterLab chapter and the Satellite data chapter, incorporating new version or advances on the topics, and feedback and learning from teaching and distributing the first version of this tutorial. Release in GitHub repository.
