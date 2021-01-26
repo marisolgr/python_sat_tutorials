@@ -1,5 +1,5 @@
 # Chapter 1 - Introduction: Python for Earth Sciences
-## <u>[Image of globe data]</u>(and conda) and point to r
+## <u>[Image of globe data]</u>
 __Objective:__ Introduce the characteristics and advantages of using Python in Earth Sciences
 
 ***
