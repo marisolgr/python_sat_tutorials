@@ -1,6 +1,6 @@
-<img src="figures/globe_data.png"/>
+
 # Chapter 1 - Python for Earth Sciences
-__Objective:__ Introduce the characteristics and advantages of using Python in Earth Sciences
+<img src="figures/globe_data.png"/>
 
 ***
 __Note:__ This in __not__ a tutorial for learning Python - there are many resources for that (bellow). In these tutorials we will learn the necessary Python tools required to work with satellite data.
