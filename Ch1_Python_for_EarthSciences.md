@@ -1,20 +1,24 @@
+<<<<<<< HEAD
 # Chapter 1 - Introduction: Python for Earth Sciences
+=======
+# Chapter 1 - Python for Earth Sciences
+>>>>>>> a448afdaede6df76a31a2e6e665d2c9d7e141728
 ## <u>[Image of globe data]</u>
 __Objective:__ Introduce the characteristics and advantages of using Python in Earth Sciences
 
 ***
 __Note:__ This in __not__ a tutorial for learning Python - there are many resources for that (bellow). In these tutorials we will learn the necessary Python tools required to work with satellite data.
 ***
+<img src="../figures/python_logo.png" alt="Python"/>
+__Python__ is a programming language that has reach a developing level that provides many advantages for Eartch Sciece applications:
 
-Python overall descriptiion and advantages over other programing languages for earth sciences:
+- It is __Open Source__: it is free, everybody can use it, everybody can contribute to it
+- It is used by an enourmous community of developers
+- It is __Modular__: it has all the libraries *(collection of programs or functions for a specific purpose)* you could possibly need; you do not need to install them all
 
-It is Open Source: it is free, everybody can use it, everybody can contribute to it
-It is used by an enourmous community of developers
-It is Modular: it has all the libraries you could possibly need; you do not need to install them all
+## This means many modules and libraries have been developed by and for *(earth)* scientists 
 
-Specific librraries developed for science and earrth sciences thatt makes life easier... in cluding time handling
-
-Python Ecosystem
+# Python Ecosystem
 
 Python modules and data structures that make it ideal for earth sciences
 
