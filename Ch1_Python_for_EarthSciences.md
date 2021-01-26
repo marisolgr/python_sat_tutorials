@@ -1,4 +1,4 @@
-## <u>[Image of globe data]</u>
+<img src="figures/globe_data.png"/>
 # Chapter 1 - Python for Earth Sciences
 __Objective:__ Introduce the characteristics and advantages of using Python in Earth Sciences
 
