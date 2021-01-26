@@ -16,34 +16,31 @@ __Python__ is a programming language that has reach a developing level that prov
 ## This means many libraries have been developed by and for *(earth)* scientists 
 
 ***
-
 # Python Scientific Ecosystem
 <img src="figures/python_scientific_ecosystem.png" alt="Python Scientific Ecosystem"/>
 
 There is a number of libraries and data structures that make it ideal for earth sciences: Numpy, SciPy, matplotlib, Pandas, and xarray. Because of Python modular structure, new and specific libraries are built on more basic ones taking advantage of well developed more basic libraries. For example, xarray not only on top of python, but also takes advantage of numpy, scipy, pandaas and matplotlib to name few.
 
 ***
+# How to run these tutorials
 
-there are different ways to program in python (or interact with python). here we are and will be using Jupyter lab interface for these tutorials - next tutorial to get the basics of it (link). 
-other options:
+There are different ways to program and run programs in Python. <u>Schematics (update)</u>
 
-Different ways to run these tutorials (maybe in the readme too)
+For these tutorial, we are providing a binder (cloud running image of the tutorialls) to run them online. They use Jupyter Lab as an interface.
 
-Where to get help
+If you decide to install Python and run these tutorial from your computer, see the resources below.
+
 
 # Resources
 
+## Where to get help
+Stackoverflow
+
+## Python Tutorials
 To learn python resources: basic python
 
+## How to install Python (using conda)
 If you decide to install and rund these tutorials in your own computer
 
-Installation and usage (including the cloud)
+## Clone tutorials from GitHub
 
-- update figure to include cloud
-- conda (links too)
-
-here it needs more links or refer to another file with instructions and resources
-
-Github link and how to get these tutorials
-
-(new files: how to install python (using conda), and a github one)
