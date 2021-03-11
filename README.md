@@ -1,20 +1,27 @@
-# python_sat_tutorials
-Tutorials to access and process satellite data in the cloud
+# <font color=#31809f>PythonSat Tutorials</font>
+Tutorials to access and process Satellite Data using Python and JupyterLab in the Cloud
 
 Modified from 'Python for Oceanographers' by: Chelle Gentemann and Marisol Garcia-Reyes, link: https://github.com/python4oceanography/ocean_python_tutorial
 
-
 <b> Objective </b>. What it does and what it doesn't
 
-This project, supported by the Better Scientific Software foundation and NASa, aims to increase accessibility of satellite data & cloud technologies to a broad scientific community through easy-to-follow Python tutorials
+This project, supported by the Better Scientific Software foundation and NASA, aims to increase accessibility of satellite data & cloud technologies to a broad scientific community through easy-to-follow Python tutorials
 
-<b> How it works</b>. Cloud, and if stand alone, how to access the cloud. All in Jupyter Lab
+<b> How to go about it</b>. Stand along chapters, resources and information files.
 
-<b> How to go about it</b>. Stand along chapters, resources and information fiiles.
+<b> How it works</b>. Cloud, and if stand alone, how to access the cloud. All in Jupyter Lab. 
+
+<b> The tutorials can also be cloned from this repository, and run locally on your computer (you would need access to the cloud):
+
+## How to install Python (using conda)
+If you decide to install and rund these tutorials in your own computer
+
+## Clone tutorials from GitHub
+
 
 <b>Work time line</b>
 
-Milestone 1 (march 31, 2021)
+Milestone 1 (March 31, 2021)
 -	Task 1.1. Update Introduction to Python and Tools chapters, and develop Introduction to JupyterLab chapter and the Satellite data chapter, incorporating new version or advances on the topics, and feedback and learning from teaching and distributing the first version of this tutorial. Release in GitHub repository.
 -	Task 1.2. Outline the 3 examples of the Applications Chapters: ocean, land, and atmosphere, where each chapter will be focused on a particular analysis on the topic, from acquiring data to generating figures from analysis results. 
 -	Task 1.3. Develop plan to teach tutorials, including potential dates and groups, aiming for one at DOE, one at another US group and another to an international group.
