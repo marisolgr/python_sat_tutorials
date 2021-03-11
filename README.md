@@ -1,25 +1,19 @@
 # <font color=#31809f>PythonSat Tutorials</font>
-Tutorials to access and process Satellite Data using Python and JupyterLab in the Cloud
+Tutorial to learn how to access and process Satellite Data using Python and JupyterLab in the Cloud
 
-Modified from 'Python for Oceanographers' by: Chelle Gentemann and Marisol Garcia-Reyes, link: https://github.com/python4oceanography/ocean_python_tutorial
+_Modified from 'Python for Oceanographers' by: Chelle Gentemann and Marisol Garcia-Reyes, link: https://github.com/python4oceanography/ocean_python_tutorial_
 
-<b> Objective </b>. What it does and what it doesn't
+### Objective
+This tutorial aims to provide scientist who want to use satellite data with the necessary tools for obtaining, analyzing and visualizing these data using, and to so in the Cloud. This project, supported by the Better Scientific Software foundation and NASA, aims to increase accessibility of satellite data & cloud technologies to a broad scientific community through easy-to-follow Python tutorials.
 
-This project, supported by the Better Scientific Software foundation and NASA, aims to increase accessibility of satellite data & cloud technologies to a broad scientific community through easy-to-follow Python tutorials
+### How it works 
+This tutorials are developed to run on the Cloud and access satellite data on the Cloud as well. To launch the tutorials, click on the binder icon here:
 
-<b> How to go about it</b>. Stand along chapters, resources and information files.
+This tutorial is divided in Chapters that provide the necessary tools as building blocks. These chapters are stand along, so can be skipped if you are familiar with the particular tool presented. 
 
-<b> How it works</b>. Cloud, and if stand alone, how to access the cloud. All in Jupyter Lab. 
+The tutorials can also be cloned from this repository, and run locally on your computer (you would need access to the cloud). To get instructions of how to install Python, JupyterLab, clone the tutorials from Github, and to access the data on the cloud, see here: 
 
-<b> The tutorials can also be cloned from this repository, and run locally on your computer (you would need access to the cloud):
-
-## How to install Python (using conda)
-If you decide to install and rund these tutorials in your own computer
-
-## Clone tutorials from GitHub
-
-
-<b>Work time line</b>
+## Tutorials timeline
 
 Milestone 1 (March 31, 2021)
 -	Task 1.1. Update Introduction to Python and Tools chapters, and develop Introduction to JupyterLab chapter and the Satellite data chapter, incorporating new version or advances on the topics, and feedback and learning from teaching and distributing the first version of this tutorial. Release in GitHub repository.
