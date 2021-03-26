@@ -9,7 +9,9 @@ This project, supported by the [Better Scientific Software foundation](https://b
 ## How it works 
 This tutorials are developed to run on the Cloud and access satellite data on the Cloud as well (_For this first release, data used is local or available online, the second release will include cloud data access_).
 
-__To launch the tutorial__, click on the binder icon below. It will redirect you to an online version of the tutorial. It takes some time to load, but you'll be promted with Jupyter environment on your web browser. Once there, double click on the Chapter you want to work on. At the end of the session, quit the session (top right of the page) and close the window. You can access it as many times as you want.
+__To launch the tutorial__, click on the binder icon below. 
+
+It will redirect you to an online version of the tutorial. It might some time to load the first time, but eventually you'll be promted with _Jupyter_ environment on your web browser. Once there, _double click_ on the Chapter you want to work on. At the end of the session, quit the session (top right of the page). You can access it as many times as you want.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marisolgr/python_sat_tutorials/HEAD)
 
