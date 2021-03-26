@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# PythonSat Tutorials
-=======
 # PythonSat Tutorials 
->>>>>>> 3102f55cd13065a8ebbf7f3ab8fb4de34a0a1cae
 Tutorial to learn how to access and process Satellite Data using Python and JupyterLab in the Cloud
 
 _Modified from 'Python for Oceanographers' by: Chelle Gentemann and Marisol Garcia-Reyes, link: https://github.com/python4oceanography/ocean_python_tutorial_
@@ -14,11 +10,7 @@ This tutorial aims to provide scientist who want to use satellite data with the 
 __Note:__ This in __not__ a tutorial on Python per se - there are a myrriad of resources for that. The purpose of this tutorial is to learn, through __examples__, only the necessary Python code and tools required to work with satellite data. We want you to get your toes wet, get to see and use the power of Python, and then maybe you want to learn more. For that, we encourage you to visit the links on the __Resources__ section at the end of each chapter. 
 
 ***
-<<<<<<< HEAD
 This tutorials are developed to run on the Cloud and access satellite data on the Cloud as well (_For this first release, data used is local or available online, the second release will include cloud data access_). To launch the tutorials, click on the binder icon: 
-=======
-This tutorials are developed to run on the Cloud and access satellite data on the Cloud as well (_For this first release, data used is local or available online, the second release will include cloud data access_). To launch the tutorials, click on the binder icon here: 
->>>>>>> 3102f55cd13065a8ebbf7f3ab8fb4de34a0a1cae
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marisolgr/python_sat_tutorials/HEAD)
 
@@ -36,8 +28,5 @@ This tutorial is divided in Chapters that provide the necessary tools as buildin
 
 4b. Plotting Tools: Python plotting libraries
 
-<<<<<<< HEAD
-The tutorials can also be cloned from this repository, and run locally on your computer (you would need access to the cloud). To get instructions of how to install Python, JupyterLab, clone the tutorials from Github, and to access the data on the cloud, see [here](https://github.com/marisolgr/python_sat_tutorials/blob/main/Python_Installation.md)
-=======
+
 The tutorials can also be cloned from this repository, and run locally on your computer (you would need access to the cloud). To get instructions of how to install Python, JupyterLab, clone the tutorials from Github, and to access the data on the cloud, see [here](https://github.com/marisolgr/python_sat_tutorials/blob/main/Python_Installation.md).
->>>>>>> 3102f55cd13065a8ebbf7f3ab8fb4de34a0a1cae
