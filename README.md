@@ -34,4 +34,4 @@ The tutorials can also be cloned from this repository, and run locally on your c
 
 Developed by: Marisol García-Reyes (marisolgr@faralloninstitute.org)
 
-_Modified from 'Python for Oceanographers' by: Chelle Gentemann and Marisol García-Reyes. Access them [here](https://github.com/python4oceanography/ocean_python_tutorial)._
+_Modified from 'Python for Oceanographers' by: Chelle Gentemann and Marisol García-Reyes. Access: [here](https://github.com/python4oceanography/ocean_python_tutorial)._
