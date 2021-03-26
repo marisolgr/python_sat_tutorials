@@ -30,7 +30,7 @@ This tutorial is divided in Chapters that provide the necessary tools as buildin
 4b. Plotting Tools: Python plotting libraries
 
 ## If you want to run it in your computer
-The tutorials can also be cloned from this repository, and run locally on your computer (you would need access to the cloud). To get instructions of how to install Python, JupyterLab, clone the tutorials from Github, and to access the data on the cloud, see [here](https://github.com/marisolgr/python_sat_tutorials/blob/main/Python_Installation.md).
+The tutorials can also be cloned from this repository, and run locally on your computer (you would need access to the cloud). To get instructions of how to install Python, Jupyter Notebooks, clone the tutorials from Github, and to access the data on the cloud, see [here](https://github.com/marisolgr/python_sat_tutorials/blob/main/Python_Installation.md).
 
 ***
 
