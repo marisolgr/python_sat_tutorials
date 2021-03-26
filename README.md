@@ -27,11 +27,11 @@ This tutorial is divided in Chapters that provide the necessary tools as buildin
 
 4b. Plotting Tools: Python plotting libraries
 
-### If you want to run it in your computer
+## If you want to run it in your computer
 The tutorials can also be cloned from this repository, and run locally on your computer (you would need access to the cloud). To get instructions of how to install Python, JupyterLab, clone the tutorials from Github, and to access the data on the cloud, see [here](https://github.com/marisolgr/python_sat_tutorials/blob/main/Python_Installation.md).
 
 ***
 
 Developed by: Marisol García-Reyes (marisolgr@faralloninstitute.org)
 
-_Modified from 'Python for Oceanographers' by: Chelle Gentemann and Marisol García-Reyes. Access them [here](https://github.com/python4oceanography/ocean_python_tutorial)_
+_Modified from 'Python for Oceanographers' by: Chelle Gentemann and Marisol García-Reyes. Access them [here](https://github.com/python4oceanography/ocean_python_tutorial)._
