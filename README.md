@@ -10,7 +10,9 @@ This tutorial aims to provide scientist who want to use satellite data with the 
 <font color=#31909f>__Note:__</font> This in <font color=#31909f>__not__</font> a tutorial on Python per se - there are a myrriad of resources for that. The purpose of this tutorial is to learn, through __examples__, only the necessary Python code and tools required to work with satellite data. We want you to get your toes wet, get to see and use the power of Python, and then maybe you want to learn more. For that, we encourage you to visit the links on the __Resources__ section at the end of each chapter. 
 
 ***
-This tutorials are developed to run on the Cloud and access satellite data on the Cloud as well (_For this first release, data used is local or available online, the second release will include cloud data access_). To launch the tutorials, click on the binder icon here: __link__
+This tutorials are developed to run on the Cloud and access satellite data on the Cloud as well (_For this first release, data used is local or available online, the second release will include cloud data access_). To launch the tutorials, click on the binder icon here: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marisolgr/python_sat_tutorials/HEAD)
+
 
 This tutorial is divided in Chapters that provide the necessary tools as building blocks. These chapters are stand along, so can be skipped if you are familiar with the particular tool presented. 
 
