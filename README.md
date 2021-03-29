@@ -6,6 +6,8 @@ This tutorial aims to provide scientist who want to use satellite data with the 
 
 This project, supported by the [Better Scientific Software foundation](https://bssw.io/), and originally by [NASA](https://www.nasa.gov/), aims to increase accessibility of satellite data & cloud technologies to a broad scientific community through easy-to-follow Python tutorial.
 
+***
+
 ## How it works 
 This tutorials are developed to run on the Cloud and access satellite data on the Cloud as well (_For this first release, data used is local or available online, the second release will include cloud data access_).
 
@@ -34,6 +36,8 @@ This tutorial is divided in Chapters that provide the necessary tools as buildin
 4a. Python Tools: xarray, the library that makes satellite data analysis easy
 
 4b. Plotting Tools: Python plotting libraries
+
+***
 
 ## If you want to run it in your computer
 The tutorials can also be cloned from this repository, and run locally on your computer (you would need access to the cloud). To get instructions of how to install Python, Jupyter Notebooks, clone the tutorials from Github, and to access the data on the cloud, see [here](https://github.com/marisolgr/python_sat_tutorials/blob/main/Python_Installation.md).
