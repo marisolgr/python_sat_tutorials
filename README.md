@@ -11,7 +11,7 @@ This tutorials are developed to run on the Cloud and access satellite data on th
 
 __To launch the tutorial__, click on the binder icon below. 
 
-It will redirect you to an online version of the tutorial. It might some time to load the first time, but eventually you'll be promted with _Jupyter_ environment on your web browser (See Chapter 2 for a brief guide). Once there, _double click_ on the Chapter you want to work on. At the end of the session, quit the session (top right of the page). You can access it as many times as you want.
+It will redirect you to an online version of the tutorial. It might some time to load the first time, but eventually you'll be promted with _Jupyter_ environment on your web browser (See Chapter 2 for a brief guide). Once there, __double click__ on the Chapter you want to work on. At the end of the session, quit the session (top right of the page). You can access it as many times as you want.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marisolgr/python_sat_tutorials/HEAD)
 
