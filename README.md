@@ -19,6 +19,8 @@ __To launch the tutorial__:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marisolgr/python_sat_tutorials/HEAD)
 
+***
+
 This tutorial is divided in Chapters that provide the necessary tools as building blocks. These chapters are stand along, so can be skipped if you are familiar with the particular tool presented. 
 
 ## Chapters:
