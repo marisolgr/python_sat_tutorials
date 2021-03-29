@@ -1,4 +1,4 @@
-# PythonSat Tutorials   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marisolgr/python_sat_tutorials/HEAD)
+# Satellite Data Python Tutorials   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marisolgr/python_sat_tutorials/HEAD)
 Tutorial to learn how to access and process Satellite Data using Python and JupyterLab in the Cloud
 
 ## Objective
