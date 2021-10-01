@@ -16,3 +16,4 @@ dependencies:
   - s3fs=0.5.1
   - fsspec=0.8.0 
   - hvplot=0.7.3
+  - wget=1.20.3
