@@ -17,3 +17,4 @@ dependencies:
   - fsspec=2021.8.1 
   - hvplot=0.7.3
   - wget=1.20.3
+  - aiohttp=3.7.4.post0
