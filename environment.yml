@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - cartopy=0.17.0
+  - cartopy=0.18.0
   - jupyterlab=2.2.8
   - matplotlib=3.2.2
   - numpy=1.18.5
@@ -18,3 +18,4 @@ dependencies:
   - hvplot=0.7.3
   - wget=1.20.3
   - aiohttp=3.7.4.post0
+  - geoviews=1.9.2
