@@ -1,8 +1,8 @@
-# Satellite Data Python Tutorials   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marisolgr/python_sat_tutorials/HEAD)
+# Satellite Data Python Tutorials   [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/marisolgr/python_sat_tutorials/main)
 Tutorial to learn how to access and process Satellite Data using Python and JupyterLab in the Cloud
 
 ## Objective
-This tutorial aims to provide scientists who want to use satellite data with the necessary tools for obtaining, analyzing, and visualizing these data using the Cloud. __Note:__ This in __not__ a tutorial on Python per se - there are a myriad of resources for that. The purpose of this tutorial is to learn, through __examples__, only the necessary Python code and tools required to work with satellite data. We want you to get your toes wet, get to see and use the power of Python, and then maybe you will want to learn more. For that, we encourage you to visit the links on the __Resources__ section at the end of each chapter. 
+This tutorial aims to provide scientists who want to use satellite data with the necessary tools for obtaining, temporally analyzing, and visualizing these data using the Cloud. __Note:__ This in __not__ a tutorial on Python per se - there are a myriad of resources for that. The purpose of this tutorial is to learn, through __examples__, only the necessary Python code and tools required to do simple temperal analysis of satellite data. We want you to get your toes wet, get to see and use the power of Python, and then maybe you will want to learn more. For that, we encourage you to visit the links on the __Resources__ section at the end of each chapter. 
 
 This project, supported by the [Better Scientific Software foundation](https://bssw.io/), and originally by [NASA](https://www.nasa.gov/), aims to increase accessibility of satellite data and cloud technologies to a broad scientific community through easy-to-follow Python examples.
 
@@ -19,7 +19,7 @@ __To launch the tutorial__:
 - At the end of the session, quit the session (top right of the page). 
 - You can access the tutorial (repeating this same procedure) as many times as you want.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marisolgr/python_sat_tutorials/HEAD)
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/marisolgr/python_sat_tutorials/main)
 
 ***
 
@@ -37,6 +37,15 @@ This tutorial is divided into Chapters that provide the necessary tools as build
 
 4b. Plotting Tools: Python plotting libraries
 
+5. Satellite Cloud Data: Background information on Cloud access and data
+
+6. Ocean Data Example: First cloud data acquisition and analysis on ocean surface temperature data
+
+7. Atmospheric Data Example: Acquisition and analysis of satellite-based data (reanalysis) wind data from the cloud
+
+8. Land Data Example: Acquisition and analysis of vegetation data from online data.
+
+
 ***
 
 ## If you want to run it on your computer
@@ -47,3 +56,5 @@ The tutorials can also be cloned from this repository and run locally on your co
 Developed by: Marisol García-Reyes (marisolgr@faralloninstitute.org)
 
 _Modified from 'Python for Oceanographers' by: Chelle Gentemann and Marisol García-Reyes. Access: [here](https://github.com/python4oceanography/ocean_python_tutorial)._
+-and 'Pangeo Tutorial for AGU Oceans Sciences 2020': [here](https://github.com/pangeo-gallery/osm2020tutorial)
+
