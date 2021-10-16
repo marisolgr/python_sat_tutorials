@@ -55,6 +55,5 @@ The tutorials can also be cloned from this repository and run locally on your co
 
 Developed by: Marisol García-Reyes (marisolgr@faralloninstitute.org)
 
-_Modified from 'Python for Oceanographers' by: Chelle Gentemann and Marisol García-Reyes. Access: [here](https://github.com/python4oceanography/ocean_python_tutorial)._
--and 'Pangeo Tutorial for AGU Oceans Sciences 2020': [here](https://github.com/pangeo-gallery/osm2020tutorial)
+_Modified from 'Python for Oceanographers' by: Chelle Gentemann and Marisol García-Reyes. Access: [here](https://github.com/python4oceanography/ocean_python_tutorial), and 'Pangeo Tutorial for AGU Oceans Sciences 2020': [here](https://github.com/pangeo-gallery/osm2020tutorial)._
 
