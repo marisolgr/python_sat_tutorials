@@ -1,7 +1,7 @@
-# Satellite Data Python Tutorials   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marisolgr/python_sat_tutorials/main)
+# Tutorial: Time Series of Satellite Data using Python[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marisolgr/python_sat_tutorials/main)
 
 
-Tutorial to learn how to access and process Satellite Data using Python and JupyterLab in the Cloud
+Tutorial to learn how to access and analyze time series of Satellite and Satellite-based Data using Python and JupyterLab in the Cloud
 
 ## Objective
 This tutorial aims to provide scientists who want to use satellite data with the necessary tools for obtaining, temporally analyzing, and visualizing these data using the Cloud. __Note:__ This in __not__ a tutorial on Python per se - there are a myriad of resources for that. The purpose of this tutorial is to learn, through __examples__, only the necessary Python code and tools required to do simple temperal analysis of satellite data. We want you to get your toes wet, get to see and use the power of Python, and then maybe you will want to learn more. For that, we encourage you to visit the links on the __Resources__ section at the end of each chapter. 
