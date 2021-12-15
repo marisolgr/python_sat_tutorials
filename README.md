@@ -1,4 +1,5 @@
-# Satellite Data Python Tutorials   [![Binder](https://aws-uswest2-binder.pangeo.io/badge_logo.svg)](https://aws-uswest2-binder.pangeo.io/v2/gh/marisolgr/python_sat_tutorials/main)
+# Satellite Data Python Tutorials   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marisolgr/python_sat_tutorials/main)
+
 
 Tutorial to learn how to access and process Satellite Data using Python and JupyterLab in the Cloud
 
@@ -20,7 +21,7 @@ __To launch the tutorial__:
 - At the end of the session, quit the session (top right of the page). 
 - You can access the tutorial (repeating this same procedure) as many times as you want.
 
-[![Binder](https://aws-uswest2-binder.pangeo.io/badge_logo.svg)](https://aws-uswest2-binder.pangeo.io/v2/gh/marisolgr/python_sat_tutorials/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marisolgr/python_sat_tutorials/main)
 
 ***
 
