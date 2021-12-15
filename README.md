@@ -1,4 +1,4 @@
-# Tutorial: Time Series of Satellite Data using Python[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marisolgr/python_sat_tutorials/main)
+# Tutorial: Analysis of Satellite Data Timeseries using Python  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marisolgr/python_sat_tutorials/main)
 
 
 Tutorial to learn how to access and analyze time series of Satellite and Satellite-based Data using Python and JupyterLab in the Cloud
