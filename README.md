@@ -11,7 +11,7 @@ This project, supported by the [Better Scientific Software foundation](https://b
 ***
 
 ## How it works 
-This tutorial is developed to run __and__ access satellite data on the Cloud. (_For this release, data used are local or available online, and the second release will include Cloud data access_).
+This tutorial is developed to run __and__ access satellite data on the Cloud. 
 
 __To launch the tutorial__:
 
