@@ -9,7 +9,7 @@ We will use __Miniconda__, which is a minimal installer of conda. This means tha
 
 
 ### Install Miniconda
-- Download `Miniconda` [here](https://docs.conda.io/en/latest/miniconda.html). Choose your platform, and make sure to get Python 3.8. 
+- Download `Miniconda` [here](https://docs.conda.io/en/latest/miniconda.html). Choose your platform, and make sure to get at least Python 3.8. 
 - Follow the Regular installation instructions for each platform, located [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html#regular-installation). (There are many sites with easier (or harder) to follow instructions, but this site is the most up-to-date one.)
 
 
@@ -22,7 +22,7 @@ We will use __Miniconda__, which is a minimal installer of conda. This means tha
   - Linux–CentOS: Open Applications - System Tools - Terminal.
   - Linux–Ubuntu: Open the Dash by clicking the upper left Ubuntu icon, then type “terminal”.
 - In the anaconda window, type `conda list`. If Anaconda is installed and working, this will display a list of installed packages and their versions.
-- In your anaconda prompt, type `conda env create -f environment.yml`. You may need to include the directory the environment.yml file was downloaded to.
+- In your anaconda prompt, type `conda env create -f environment.yml`. You may need to include the directory to where the environment.yml file was downloaded to.
 
 ### Run the tutorial
 
