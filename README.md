@@ -58,6 +58,7 @@ The tutorials can also be cloned from this repository and run locally on your co
 ***
 
 Developed by: Marisol García-Reyes (marisolgr@faralloninstitute.org)
+
 Funded by: [Better Scientific Software Fellowship Program](https://bssw.io/pages/bssw-fellowship-program) 
 
 _Modified from 'Python for Oceanographers' by: Chelle Gentemann and Marisol García-Reyes. Access [here](https://github.com/python4oceanography/ocean_python_tutorial), and 'Pangeo Tutorial for AGU Oceans Sciences 2020' [here](https://github.com/pangeo-gallery/osm2020tutorial)._
